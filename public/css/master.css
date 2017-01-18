@@ -1,3 +1,7 @@
+.contact .contact-from,
+.contact-index ul{
+  max-width: : 500px;
+}e
 .contact h2{
   color: tomato;
 }
